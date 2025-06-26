@@ -7,7 +7,7 @@ community contributions are welcome.
 
 #### Quickstart
 
-1. download a plugin screen from your [TRMNL Playlist](https://usetrmnl.comm/playlists) (right-click to "Save as image...")
+1. download a plugin screen from your [TRMNL Playlist](https://usetrmnl.comm/playlists) (right-click > "Save Image As...")
 2. download any `*.psd` file from the collection below
 3. open the file in Photoshop, Affinity, or free on the web at photopea.com
 4. double-click the small square inside the layer named "Plugins" - this will look a bit different in each file
@@ -25,7 +25,7 @@ _Step 5_
 ### Array
 
 ![preview-array-white-light-on-light](https://github.com/user-attachments/assets/da5246d5-7999-4fa7-bd27-9c950f6ba7e5)
-[get the files](https://drive.google.com/drive/folders/1odgAwxszx4QgdiyYZk7nsh5pw4Ri1gyl?usp=sharing)
+[get the files](https://drive.google.com/drive/folders/1wKTbOGJZcJuoYyIUZAe-ZJ4AbyhxjXMs?usp=sharing)
 
 **variants**
 * white light on light
