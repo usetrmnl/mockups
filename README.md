@@ -7,9 +7,9 @@ community contributions are welcome.
 
 #### Quickstart
 
-1. download a plugin screen from your [TRMNL Playlist](https://usetrmnl.comm/playlists) (right-click > "Save Image As...")
+1. download a plugin screen from your [TRMNL Playlist](https://usetrmnl.com/playlists) (right-click > "Save Image As...")
 2. download any `*.psd` file from the collection below
-3. open the file in Photoshop, Affinity, or free on the web at photopea.com
+3. open the file in Photoshop, Affinity, **or free on the web at photopea.com**
 4. double-click the small square inside the layer named "Plugins" - this will look a bit different in each file
 5. drag/drop your plugin screen as the top or only visible layer, then save the Smart Object "plugins.psd" window
 6. the mockup file (step 2) will super-impose your plugin screen; modify and export to your liking
